@@ -4,6 +4,7 @@
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
+* [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [Angular.js Youtube Channel](https://www.youtube.com/angularjs)
@@ -106,6 +107,11 @@
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
+## Node.js
+
+* [Node Documentation](https://nodejs.org/en/docs/)
+
+
 ## Om
 
 * [Om Tutorial](http://awkay.github.io/om-tutorial/)
@@ -122,6 +128,8 @@
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
+* [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * React Tutorial by Josh Finnie
